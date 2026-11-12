@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2026-1-20",
+        "category": "food",
+        "amount": "30.2",
+        "description": "non"
+    },
+    {
+        "date": "2026-01-25",
+        "category": "rent car",
+        "amount": "300",
+        "description": "SD"
+    },
+    {
+        "date": "2026-02-02",
+        "category": "hotal",
+        "amount": "400",
+        "description": "LA"
+    }
+]
